@@ -36,5 +36,4 @@
 			<artifactId>jsqlparser</artifactId>
 		</dependency>
 	</dependencies>
-	<build />
 </project>

@@ -9,6 +9,9 @@
 	</parent>
 	<artifactId>taotao-manage-web</artifactId>
 	<packaging>war</packaging>
+	<properties>
+		<webVersion>3.1</webVersion>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>com.taotao.manage</groupId>
@@ -57,5 +60,4 @@
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
-	<build />
 </project>
